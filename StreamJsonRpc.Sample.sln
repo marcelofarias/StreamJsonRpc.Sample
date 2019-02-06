@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27610.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28531.58
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamJsonRpc.Sample.Client", "StreamJsonRpc.Sample.Client\StreamJsonRpc.Sample.Client.csproj", "{26BF246E-A3B0-4742-B97F-EAD1033E5145}"
 EndProject
@@ -11,7 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NamedPipe", "NamedPipe", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebSocket", "WebSocket", "{A8A4C0AF-E386-477D-A3FE-4AAEB8F43E89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamJsonRpc.Sample.Web", "StreamJsonRpc.Sample.Web\StreamJsonRpc.Sample.Web.csproj", "{873887DF-0B3E-42A9-95EE-2D51FDB48605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamJsonRpc.Sample.Web", "StreamJsonRpc.Sample.Web\StreamJsonRpc.Sample.Web.csproj", "{873887DF-0B3E-42A9-95EE-2D51FDB48605}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{EB62771F-8E33-46B2-8BEA-70948C6D0DCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

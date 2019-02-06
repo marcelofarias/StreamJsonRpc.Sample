@@ -47,5 +47,12 @@ namespace StreamJsonRpc.Sample.Web
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
+
+        public void foo()
+        {
+            // something here
+            // and there
+
+        }
     }
 }
